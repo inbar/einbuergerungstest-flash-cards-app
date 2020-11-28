@@ -134,7 +134,6 @@ function FlashCardPage(props) {
                                     key={q.id}
                                     question={q}
                                     interactionMode={interactionModes.PRESS}
-                                    rightAnswerId={answers[q.id]}
                                     infoBoxContent={q.id}
                                     questionText={q.question.text}
                                 />

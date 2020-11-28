@@ -1,0 +1,30 @@
+@import "variables";
+
+// UIkit theme modifications
+
+
+/* Off-canvas bar*/ 
+@offcanvas-bar-background: white;
+@offcanvas-bar-color-mode: none;
+
+.hook-offcanvas-bar() {
+  border-right: @sidebar-border;
+}
+
+.hook-card-body() {
+  font-size: 0.875rem;
+}
+
+.hook-pagination-item-active() {
+  text-decoration: underline;
+}
+
+.hook-pagination() {
+  & > .uk-first-column {
+    padding-left: 15px;
+    
+    & > * {
+      padding-left: 0;
+    } 
+  }
+}

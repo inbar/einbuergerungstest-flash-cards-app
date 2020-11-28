@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import Answer from "./Answer";
 import {isRightAnswer} from "../../Questions";
 import Image from "./image";
-import {enterOrSpace} from "../../accessibility";
+import {enterOrSpace} from "../../Accessibility";
 
 export const interactionModes = {
   SELECT: 0,

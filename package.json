@@ -6,6 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server --host 0.0.0.0 --open",
     "build": "webpack",
+    "release": "webpack --mode=production",
     "build-dev": "webpack --mode=development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

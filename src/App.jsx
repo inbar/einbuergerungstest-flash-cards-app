@@ -1,4 +1,4 @@
-import React, {Fragment, useState} from 'react';
+import React, {Fragment} from 'react';
 import './styles/main.less'
 import {Route, Switch, Link, Redirect, useLocation, useHistory} from "react-router-dom"
 import HomePage from "./pages/HomePage";

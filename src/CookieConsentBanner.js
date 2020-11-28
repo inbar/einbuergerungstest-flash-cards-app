@@ -1,5 +1,5 @@
-import React, {useContext, useState} from "react";
-import {enterOrSpace} from "./accessibility";
+import React, {useContext} from "react";
+import {enterOrSpace} from "./Accessibility";
 import { CookieConsentContext } from "./CookieConsentContext"
 
 function CookieConsentBanner(props) {

@@ -1,7 +1,7 @@
 import {useState} from 'react'
 import React from 'react'
 import {interactionModes} from "./Card";
-import {enterOrSpace} from "../../accessibility";
+import {enterOrSpace} from "../../Accessibility";
 
 const neutralAnswerStyle = getAnswerNeutralStyle();
 

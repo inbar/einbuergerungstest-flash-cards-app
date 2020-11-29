@@ -1,0 +1,19 @@
+language: node_js
+node_js:
+  - 12
+os: linux
+cache: npm
+script:
+  - npm run release
+deploy:
+  - provider: script
+    script: curl $DEPLOY_HOOK_PROD_URL 
+    edge: true
+    on: 
+      branch: mainline
+  - provider: script
+    script: curl $DEPLOY_HOOK_BETA_URL
+    edge: true
+    on:
+      branch: dev
+  

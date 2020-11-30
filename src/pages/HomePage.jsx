@@ -4,10 +4,15 @@ import regions from "../resources/data/regions.yml";
 import {QUESTION_TYPES as PAGE_TYPES} from "./../Questions";
 import {PATHS} from "../App";
 import ExternalLink from "../ExternalLink";
+import MetaTags from "../components/MetaTags";
 
 function HomePage() {
     return (
         <React.Fragment>
+            <MetaTags
+                titleSuffix='Home'
+                description='General info about preparing for the german Einbürgerungstest using the flash crads app.'
+            />
             
             <h2 className="uk-heading-divider uk-heading-bullet">The Naturalisation Test ("Einbürgerungstest")</h2>
             <p>

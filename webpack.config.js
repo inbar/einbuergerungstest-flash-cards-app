@@ -1,6 +1,7 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const {CleanWebpackPlugin} = require('clean-webpack-plugin');
+const FaviconsWebpackPlugin = require('favicons-webpack-plugin')
 
 // noinspection WebpackConfigHighlighting
 module.exports = {
@@ -20,6 +21,7 @@ module.exports = {
         new HtmlWebpackPlugin({
             template: path.resolve(__dirname, './src/index.html')
         }),
+        new FaviconsWebpackPlugin('./src/resources/images/logo_500.png')
     ],
 
     module: {

@@ -6,6 +6,7 @@ import ScoreBoard from "./ScoreBoard";
 import Card, {interactionModes} from "../components/cards/Card";
 import Timer from "./Timer";
 import {getRandomGeneralQuestionsSlice, getRandomRegionalQuestionsSlice, isRightAnswer} from "../Questions";
+import MetaTags from "../components/MetaTags";
 
 
 function TestPage(props) {
@@ -117,6 +118,10 @@ function TestPage(props) {
 
     return (
         <React.Fragment>
+            <MetaTags
+                titleSuffix={`Take a Test | ${getRegionPrettyName(region)}`}
+                description={`Take a test simulation for ${getRegionPrettyName(region)}. Are you ready for the Einbürgerunstest?`}
+            />
             <header>
                 <div>
                     <h1 className="uk-heading-bullet uk-text-light uk-display-inline-block uk-margin-small-right">Test</h1>

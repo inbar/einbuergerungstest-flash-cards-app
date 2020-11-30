@@ -1,13 +1,14 @@
-import React, { useState, useEffect }from 'react'
-import { Redirect } from "react-router-dom"
+import React, {useState, useEffect} from 'react'
+import {Redirect} from "react-router-dom"
 import Pagination from "./../components/pagination"
-import { isLegalRegion, getRegionPrettyName } from "./../Regions"
+import {isLegalRegion, getRegionPrettyName} from "./../Regions"
 import Card, {interactionModes} from "./../components/cards/Card";
 import {
     getAllGeneralQuestions,
     getAllRegionalQuestions, QUESTION_TYPES as PAGE_TYPES
 } from "../Questions";
 import {doScrollToTop} from "../ScrollToTop";
+import MetaTags from "../components/MetaTags";
 
 const ALLOWED_NUMBER_OF_ENTRIES = [10, 15, 30, 50];
 const BATCH_SIZE = 20;
@@ -113,6 +114,10 @@ function FlashCardPage(props) {
     );
     return (
         <React.Fragment>
+            <MetaTags
+                titleSuffix={`Take a Test | Learn | ${isGeneralQuestionsPage() ? 'General Questions' : `Regional | ${getRegionPrettyName(getRegion())}`}`}
+                description='Quickly learn for the german Einbürgerungstest using interactive flash crads.'
+            />
             <header className="uk-margin-small-bottom">
                 <h1 className="uk-heading-bullet uk-text-light">
                     Flash Cards <span className="page__header__secondary marker uk-text-meta uk-text-large uk-text-light">{pageSecondaryTitle}</span>
@@ -120,7 +125,7 @@ function FlashCardPage(props) {
             </header>
             
             <section>
-                { isGeneralQuestionsPage() && paginationElement}
+                { isGeneralQuestionsPage() && paginationElement }
                 <hr/>
                 <div className="uk-child-width-1-2@l uk-grid-small uk-margin-medium-bottom" data-uk-grid="masonry: true">
 
@@ -145,7 +150,7 @@ function FlashCardPage(props) {
                     <LoadMoreButton clickHandler={handleLoadMoreClick}/>
                 </div>
                 <hr/>
-                { isGeneralQuestionsPage() && paginationElement}
+                { isGeneralQuestionsPage() && paginationElement }
             </section>
         </React.Fragment>
     )

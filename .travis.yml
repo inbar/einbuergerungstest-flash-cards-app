@@ -17,5 +17,4 @@ deploy:
     on:
       branch: dev
 notifications:
-  email: $NOTIFICATION_EMAIL
-  
+  email: $NOTIFICATION_EMAIL  

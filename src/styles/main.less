@@ -1,0 +1,333 @@
+@import "imports";
+@import "variables";
+@import "fonts";
+@import "uikit.theme.mods";
+
+html {
+  font-family: HKGrotesk, sans-serif;
+  font-size: 18px;
+  color: @black;
+}
+
+h1, h2, h3 {
+  font-family: HKGrotesk, sans-serif;
+}
+
+p > a {
+  text-decoration: underline;
+}
+
+@media (max-width: 1200px) {
+  .page__header__secondary {
+    margin-left: 1.3rem;
+  }
+
+  .headroom__title {
+    font-size: 1.6rem !important;
+    line-height: 1 !important;
+    margin-bottom: 0.2rem !important;
+  }
+
+  .headroom_title__dot {
+    font-size: 1.6rem !important;
+  }
+
+  .headroom__subtitle {
+    font-size: 0.79rem !important;
+    letter-spacing: 0.2rem !important;
+  }
+
+}
+
+/* Main container*/
+
+@media (min-width: 1200px) {
+  .main-container {
+    padding-left: 370px !important;
+  }
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 1vh;
+}
+
+.headroom {
+  flex: 0 0 auto;
+  background-color: @gold;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.175);
+  z-index: 9999;
+}
+
+.headroom__title {
+  font-weight: 900;
+  font-size: 2.3rem;
+  letter-spacing: -0.011rem;
+  margin: 0;
+}
+
+.headroom_title__dot {
+  font-weight: 900;
+  font-size: 2.3rem;
+  color: @red;
+}
+
+.headroom__subtitle {
+  font-weight: 300;
+  font-size: 1.25rem;
+  letter-spacing: 0.6rem;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.main-container {
+  flex: 1 0 auto;
+}
+
+.content-wrapper {
+  flex: 1 0 auto;
+}
+
+.main-nav {
+  font-weight: 300;
+
+  & > li > a {
+    color: @light-black;
+
+    &:hover {
+      color: @black;
+    }
+  }
+}
+
+/*  Card */
+.card__info-box__question-id {
+  width: auto;
+  height: auto;
+  padding: 0 0.3em;
+  background: @black;
+  color: @offwhite;
+}
+
+.card__question-text {
+  font-weight: 400;
+  font-size: 1.1rem;
+  letter-spacing: -0.022rem;
+}
+
+.card__answers__item {
+  font-weight: 300;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  border-color: @dark-grey;
+  padding: 8px;
+}
+
+.card__answers__item:hover {
+  border-color: @light-grey;
+}
+
+.card__answers__answer-id-gutter {
+  width: 1.3rem;
+  font-size: 1.1rem;
+}
+
+.card__answers__item__right-answer {
+  background: @right-green;
+  color: @offwhite;
+  border-color: @dark-grey !important;
+
+  &.card__answers__item__selected {
+    border-color: @right-green !important;
+    color: @black;
+  }
+
+}
+
+.card__answers__item__wrong-answer {
+  background: @wrong-red;
+  color: @offwhite;
+  border-color: @dark-grey !important;
+
+  &.card__answers__item__selected {
+    border-color: @wrong-red !important;
+    color: @black;
+  }
+
+}
+
+.card__answers__item__selected {
+  background: @selected-yellow;
+  font-weight: bolder;
+}
+
+.card__image {
+  max-height: 20em;
+}
+
+.card__footer__reveal-button {
+  line-height: 2.5;
+}
+
+.logo__container {
+  color: @offwhite;
+  cursor: pointer;
+}
+
+.unselectable {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.logo__text-line {
+  background: @black;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.sidebar__container {
+  z-index: 888;
+}
+
+.sidebar__container li {
+  font-size: 1.2rem;
+}
+
+.sidebar__fixed__container {
+  border-right: @sidebar-border;
+}
+
+.sidebar__link__active {
+  text-decoration: underline;
+}
+
+.footer {
+  color: @offwhite;
+  background: @light-black;
+  flex: 0 0 auto;
+  z-index: 999;
+}
+
+.footer_berlin_logo {
+  height: 1.5rem;
+  margin-left: 0.2rem;
+  vertical-align: text-bottom;
+}
+
+.score-board {
+  z-index: 9999;
+}
+
+.score-board__controls__small_screen {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.cookie-consent__container {
+  z-index: 777;
+}
+
+.cookie-consent__banner {
+  background-color: @black-transparent;
+  color: @offwhite;
+  border-radius: 10px;
+}
+
+.cookie-consent__button__accept {
+  color: @black;
+  background-color: @offwhite;
+  border: 0.1rem solid @offwhite;
+}
+
+.cookie-consent__button__accept:hover,
+.cookie-consent__button__accept:focus {
+  text-decoration: underline;
+}
+
+.cookie-consent__button__accept:active {
+  background-color: transparent;
+  color: @offwhite;
+}
+
+.cookie-consent__button__decline {
+  background-color: transparent;
+  color: @offwhite;
+  border: 0.1rem solid @offwhite;
+}
+
+.cookie-consent__button__decline:hover,
+.cookie-consent__button__decline:focus {
+  text-decoration: underline;
+}
+
+.cookie-consent__button__decline:active {
+  background-color: @offwhite;
+  color: @black;
+}
+
+.cookie-consent__link {
+  font-size: 0.75rem;
+
+  &:hover {
+    color: lighten(@offwhite, 50%) !important;
+  }
+}
+
+.page__header__secondary {
+  color: @light-black;
+}
+
+.external-link__logo {
+  height: 0.8rem;
+  color: @black;
+  margin-left: 0.25rem;
+}
+
+
+// Marker source: https://mietendeckel.berlin.de/
+.marker {
+  display: inline-block;
+  position: relative;
+  background: none;
+  z-index: 1
+}
+
+.marker:before,
+.marker:after {
+  mix-blend-mode: multiply;
+  position: absolute;
+  z-index: -1;
+  content: "";
+  opacity: 1;
+  height: 120%;
+  width: 90%;
+  background-image: -webkit-linear-gradient(190deg, rgba(255, 204, 0, 0.2), rgba(255, 204, 0, 0.4));
+  background-image: linear-gradient(-100deg, rgba(255, 204, 0, 0.2), rgba(255, 204, 0, 0.4))
+}
+
+@supports not (mix-blend-mode: multiply) {
+  .marker:before,
+  .marker:after {
+    opacity: 0.5
+  }
+}
+
+.marker:before {
+  -webkit-transform: rotate(1deg) translatey(-0.125em) translatex(-0.125em);
+  transform: rotate(1deg) translatey(-0.125em) translatex(-0.125em)
+}
+
+.marker:after {
+  left: 30%;
+  top: 0;
+  opacity: 0.8;
+  width: 66%;
+  -webkit-transform: rotate(-0.5deg) translatey(0.1em) translatex(0.33em);
+  transform: rotate(-0.5deg) translatey(0.1em) translatex(0.33em)
+}

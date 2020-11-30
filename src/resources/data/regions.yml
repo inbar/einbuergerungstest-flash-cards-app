@@ -1,0 +1,50 @@
+list: 
+  - short: BB
+    readable: Brandenburg
+  - short: BE
+    readable: Berlin
+  - short: BW
+    readable: Baden-Württemberg
+  - short: BY
+    readable: Bayern
+  - short: HB
+    readable: Bremen
+  - short: HE
+    readable: Hessen
+  - short: HH
+    readable: Hamburg
+  - short: MV
+    readable: Mecklenburg-Vorpommern
+  - short: NI
+    readable: Niedersachsen
+  - short: NW
+    readable: Nordrhein-Westfalen
+  - short: RP
+    readable: Rheinland-Pfalz
+  - short: SH
+    readable: Schleswig-Holstein
+  - short: SL
+    readable: Saarland
+  - short: SN
+    readable: Sachsen
+  - short: ST
+    readable: Sachsen-Anhalt
+  - short: TH
+    readable: Thüringen
+map:
+  BB: Brandenburg
+  BE: Berlin
+  BW: Baden-Württemberg
+  BY: Bayern
+  HB: Bremen
+  HE: Hessen
+  HH: Hamburg
+  MV: Mecklenburg-Vorpommern
+  NI: Niedersachsen
+  NW: Nordrhein-Westfalen
+  RP: Rheinland-Pfalz
+  SH: Schleswig-Holstein
+  SL: Saarland
+  SN: Sachsen
+  ST: Sachsen-Anhalt
+  TH: Thüringen

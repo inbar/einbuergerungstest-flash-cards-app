@@ -111,7 +111,6 @@ const selectedStyle = 'card__answers__item__selected';
 function baseStyle() {
     return [
         'uk-tile',
-        'uk-padding-small',
         'card__answers__item',
         'uk-tile-muted'
     ];

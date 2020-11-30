@@ -16,4 +16,6 @@ deploy:
     edge: true
     on:
       branch: dev
+notifications:
+  email: $NOTIFICATION_EMAIL
   

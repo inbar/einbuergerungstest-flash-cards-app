@@ -114,8 +114,8 @@ function FlashCardPage(props) {
     return (
         <React.Fragment>
             <header className="uk-margin-small-bottom">
-                <h1 className="uk-heading-bullet uk-text-lighter">
-                    Flash Cards <span className="flash-card__header__secondary uk-text-meta uk-text-large uk-text-lighter">{pageSecondaryTitle}</span>
+                <h1 className="uk-heading-bullet uk-text-light">
+                    Flash Cards <span className="page__header__secondary marker uk-text-meta uk-text-large uk-text-light">{pageSecondaryTitle}</span>
                 </h1>
             </header>
             

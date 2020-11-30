@@ -119,8 +119,8 @@ function TestPage(props) {
         <React.Fragment>
             <header>
                 <div>
-                    <h1 className="uk-heading-bullet uk-text-lighter uk-display-inline-block uk-margin-small-right">Test</h1>
-                    <h2 className="uk-text-meta uk-text-large uk-text-lighter uk-display-inline-block uk-margin-small-right uk-margin-remove-top">{pageSecondaryTitle}</h2>
+                    <h1 className="uk-heading-bullet uk-text-light uk-display-inline-block uk-margin-small-right">Test</h1>
+                    <h2 className="page__header__secondary marker uk-text-meta uk-text-large uk-text-light uk-margin-remove uk-margin-small-right uk-margin-remove-top">{pageSecondaryTitle}</h2>
                     <h2 className="uk-display-inline-block uk-margin-remove-top" data-uk-tooltip="title: Get new questions; pos: bottom">
                         <a className="uk-icon-link" onClick={newTestHandler}
                            data-uk-icon="icon: refresh; ratio: 1.4"/>

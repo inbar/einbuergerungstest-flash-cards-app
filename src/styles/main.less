@@ -18,8 +18,7 @@ p > a {
 }
 
 @media (max-width: 1200px) {
-  .flash-card__header__secondary {
-    display: block;
+  .page__header__secondary {
     margin-left: 1.3rem;
   }
 
@@ -37,7 +36,7 @@ p > a {
     font-size: 0.79rem !important;
     letter-spacing: 0.2rem !important;
   }
-  
+
 }
 
 /* Main container*/
@@ -57,7 +56,7 @@ p > a {
 .headroom {
   flex: 0 0 auto;
   background-color: @gold;
-  box-shadow: 1px 1px 1px rgba(0,0,0,0.175);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.175);
   z-index: 9999;
 }
 
@@ -93,11 +92,11 @@ p > a {
 }
 
 .main-nav {
-  font-weight: 200;
-  
+  font-weight: 300;
+
   & > li > a {
     color: @light-black;
-    
+
     &:hover {
       color: @black;
     }
@@ -125,6 +124,7 @@ p > a {
   border-width: 1px;
   border-style: solid;
   border-color: @dark-grey;
+  padding: 8px;
 }
 
 .card__answers__item:hover {
@@ -279,9 +279,55 @@ p > a {
   }
 }
 
+.page__header__secondary {
+  color: @light-black;
+}
+
 .external-link__logo {
   height: 0.8rem;
   color: @black;
   margin-left: 0.25rem;
 }
 
+
+// Marker source: https://mietendeckel.berlin.de/
+.marker {
+  display: inline-block;
+  position: relative;
+  background: none;
+  z-index: 1
+}
+
+.marker:before,
+.marker:after {
+  mix-blend-mode: multiply;
+  position: absolute;
+  z-index: -1;
+  content: "";
+  opacity: 1;
+  height: 120%;
+  width: 90%;
+  background-image: -webkit-linear-gradient(190deg, rgba(255, 204, 0, 0.2), rgba(255, 204, 0, 0.4));
+  background-image: linear-gradient(-100deg, rgba(255, 204, 0, 0.2), rgba(255, 204, 0, 0.4))
+}
+
+@supports not (mix-blend-mode: multiply) {
+  .marker:before,
+  .marker:after {
+    opacity: 0.5
+  }
+}
+
+.marker:before {
+  -webkit-transform: rotate(1deg) translatey(-0.125em) translatex(-0.125em);
+  transform: rotate(1deg) translatey(-0.125em) translatex(-0.125em)
+}
+
+.marker:after {
+  left: 30%;
+  top: 0;
+  opacity: 0.8;
+  width: 66%;
+  -webkit-transform: rotate(-0.5deg) translatey(0.1em) translatex(0.33em);
+  transform: rotate(-0.5deg) translatey(0.1em) translatex(0.33em)
+}

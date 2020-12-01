@@ -116,7 +116,7 @@ function FlashCardPage(props) {
         <React.Fragment>
             <MetaTags
                 titleSuffix={`Take a Test | Learn | ${isGeneralQuestionsPage() ? 'General Questions' : `Regional | ${getRegionPrettyName(getRegion())}`}`}
-                description='Quickly learn for the german Einbürgerungstest using interactive flash crads.'
+                description='Quickly learn for the german Einbürgerungstest using interactive flash cards.'
             />
             <header className="uk-margin-small-bottom">
                 <h1 className="uk-heading-bullet uk-text-light">

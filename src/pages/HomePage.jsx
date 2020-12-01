@@ -11,7 +11,7 @@ function HomePage() {
         <React.Fragment>
             <MetaTags
                 titleSuffix='Home'
-                description='General info about preparing for the german Einbürgerungstest using the flash crads app.'
+                description='General info about preparing for the german Einbürgerungstest using the flash cards app.'
             />
             
             <h2 className="uk-heading-divider uk-heading-bullet">The Naturalisation Test ("Einbürgerungstest")</h2>

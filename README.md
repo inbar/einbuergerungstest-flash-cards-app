@@ -1,8 +1,12 @@
 ## Einbürgerungstest Flash Cards [![Travis Build (Prod)](https://travis-ci.com/inbar/einbuergerungstest-flash-cards-app.svg?branch=mainline)](https://travis-ci.com/inbar/einbuergerungstest-flash-cards-app) [![Travis Build (Prod)](https://travis-ci.com/inbar/einbuergerungstest-flash-cards-app.svg?branch=dev)](https://travis-ci.com/inbar/einbuergerungstest-flash-cards-app)
 
 ### Live System
-**Prod:** https://www.einbuergerungstest-flash-cards.app  
-**Beta:** https://beta.einbuergerungstest-flash-cards.app
+* **Prod:** https://www.einbuergerungstest-flash-cards.app 
+  * Deploys [mainline](https://github.com/inbar/einbuergerungstest-flash-cards-app/tree/mainline/) branch  
+* **Gamma:** https://www.einbuergerungstest-flash-cards.app 
+  * Deploys [dev](https://github.com/inbar/einbuergerungstest-flash-cards-app/tree/dev/) branch  
+* **Beta:** https://beta.einbuergerungstest-flash-cards.app 
+  * Deploys arbitrary branch configured in [Render dashboard](https://dashboard.render.com/static/srv-bv213aoti7jage0qinqg/settings)
 
 
 ### Quick Links

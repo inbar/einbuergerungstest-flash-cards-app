@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../../resources/images/logo_wide.png";
+import logo from "../../resources/images/logo_1200.png";
 import {Helmet} from "react-helmet";
 
 const SITE_NAME = "Einbürgerunstest Flash Cards App";
@@ -23,6 +23,8 @@ function MetaTags(props) {
 
             <meta property="og:url" content={url}/>
             <meta property="og:image" content={logo} />
+            <meta property="og:image:width" content="1200"/>
+            <meta property="og:image:height" content="1200"/>
             <meta property="og:description" content={props.description}/>
             
             {/* Twitter */}

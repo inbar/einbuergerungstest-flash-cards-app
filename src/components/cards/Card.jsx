@@ -1,8 +1,8 @@
 import React, {useState} from 'react'
 import Answer from "./Answer";
-import {isRightAnswer} from "../../Questions";
 import Image from "./image";
-import {enterOrSpace} from "../../Accessibility";
+import {enterOrSpace} from "../../utils/Accessibility";
+import {isRightAnswer} from "../../utils/Questions";
 
 export const interactionModes = {
   SELECT: 0,
@@ -24,7 +24,7 @@ export default function Card(props) {
         answerPointerOutHandler
     } = props;
 
-
+    
     const [isRevealAnswer, setIsRevealAnswer] = useState(false);
     const [isPointerDown, setIsPointerDown] =  useState(false);
 
@@ -45,9 +45,7 @@ export default function Card(props) {
     }
     
     return (
-        <article onKeyDown={enterOrSpace(handleButtonPointerDown)}
-                 onKeyUp={enterOrSpace(handleButtonPointerUp)}
-            >
+        <article>
             <div className="uk-card unselectable uk-card-default uk-padding-small uk-card-small">
                 
                 {/* Renders question image if exists and nothing otherwise. */}

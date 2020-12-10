@@ -5,9 +5,14 @@ logs
 **/*.backup.*
 **/*.back.*
 
-dist
 node_modules
-bower_components
+
+# webpack
+dist 
+# gatsby
+public
+.cache
+
 
 *.sublime*
 

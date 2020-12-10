@@ -1,7 +1,7 @@
 import {useState} from 'react'
 import React from 'react'
 import {interactionModes} from "./Card";
-import {enterOrSpace} from "../../Accessibility";
+import {enterOrSpace} from "../../utils/Accessibility";
 
 const neutralAnswerStyle = getAnswerNeutralStyle();
 
@@ -94,8 +94,7 @@ export default function Answer(props) {
                      onPointerUp={handlePointerUp}
                      onClick={props.clickHandler}
                      onKeyDown={enterOrSpace(isPressMode() ? handlePointerDown : props.clickHandler)}
-                     onKeyUp={enterOrSpace(handlePointerUp)}
-                >
+                     onKeyUp={enterOrSpace(handlePointerUp)}>
                     {props.answer}
                 </div>
             </div>

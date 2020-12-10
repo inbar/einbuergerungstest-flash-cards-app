@@ -1,0 +1,1920 @@
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Brandenburg?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: BB
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Brandenburg?
+  answers:
+    - Prignitz
+    - Rhein-Sieg-Kreis
+    - Vogtlandkreis
+    - Amberg-Sulzbach
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: BB
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: BB
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Brandenburg bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BB
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Brandenburg?
+  answers:
+    - blau-weiß-rot
+    - rot-weiß
+    - grün-weiß-rot
+    - schwarz-gelb
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BB
+- qid: 6
+  question:
+    text: Wo können Sie sich in Brandenburg über politische Themen informieren?
+  answers:
+    - bei den Kirchen
+    - beim Ordnungsamt der Gemeinde
+    - bei der Landeszentrale für politische Bildung
+    - bei der Verbraucherzentrale
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: BB
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Brandenburg heißt ...
+  answers:
+    - Potsdam.
+    - Cottbus.
+    - Brandenburg.
+    - Frankfurt/Oder.
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: BB
+- qid: 8
+  question:
+    text: Welches Bundesland ist Brandenburg?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BB
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Brandenburg?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BB
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Brandenburg nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BB
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Berlin?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BE
+- qid: 2
+  question:
+    text: Welches ist ein Bezirk von Berlin?
+  answers:
+    - Altona
+    - Prignitz
+    - Pankow
+    - Mecklenburgische Seenplatte
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: BE
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird das Landesparlament in Berlin gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: BE
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BE
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Berlin?
+  answers:
+    - blau-weiß-rot
+    - weiß-rot
+    - grün-weiß-rot
+    - schwarz-gold
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BE
+- qid: 6
+  question:
+    text: Wo können Sie sich in Berlin über politische Themen informieren?
+  answers:
+    - beim Ordnungsamt der Gemeinde
+    - bei den Kirchen
+    - bei der Verbraucherzentrale
+    - bei der Landeszentrale für politische Bildung
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BE
+- qid: 7
+  question:
+    text: Welches Bundesland ist ein Stadtstaat?
+  answers:
+    - Berlin
+    - Saarland
+    - Brandenburg
+    - Hessen
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: BE
+- qid: 8
+  question:
+    text: Welches Bundesland ist Berlin?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BE
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Berlin?
+  answers:
+    - Ministerpräsident / Ministerpräsidentin
+    - Oberbürgermeister / Oberbürgermeisterin
+    - Präsident / Präsidentin des Senats
+    - Regierender Bürgermeister / Regierende Bürgermeisterin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BE
+- qid: 10
+  question:
+    text: Welchen Senator / welche Senatorin hat Berlin nicht?
+  answers:
+    - Finanzsenator / Finanzsenatorin
+    - Innensenator / Innensenatorin
+    - Senator / Senatorin für Außenbeziehungen
+    - Justizsenator / Justizsenatorin
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: BE
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Baden-Württemberg?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: BW
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Baden-Württemberg?
+  answers:
+    - Mecklenburgische Seenplatte
+    - Neckar-Odenwald-Kreis
+    - Nordfriesland
+    - Altötting
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BW
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: BW
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BW
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Baden-Württemberg?
+  answers:
+    - blau-weiß-rot
+    - schwarz-gold
+    - weiß-blau
+    - grün-weiß-rot
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BW
+- qid: 6
+  question:
+    text: Wo können Sie sich in Baden-Württemberg über politische Themen informieren?
+  answers:
+    - beim Ordnungsamt der Gemeinde
+    - bei der Verbraucherzentrale
+    - bei der Landeszentrale für politische Bildung
+    - bei den Kirchen
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: BW
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Baden-Württemberg heißt ...
+  answers:
+    - Heidelberg.
+    - Stuttgart.
+    - Karlsruhe.
+    - Mannheim.
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BW
+- qid: 8
+  question:
+    text: Welches Bundesland ist Baden-Württemberg?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BW
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Baden-Württemberg?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BW
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Baden-Württemberg nicht?
+  answers:
+    - Finanzminister / Finanzministerin
+    - Justizminister / Justizministerin
+    - Innenminister / Innenministerin
+    - Außenminister / Außenministerin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BW
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Freistaat Bayern?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BY
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Bayern?
+  answers:
+    - Prignitz
+    - Rhein-Sieg-Kreis
+    - Nordfriesland
+    - Altötting
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BY
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Bayern gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: BY
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: BY
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Bayern?
+  answers:
+    - blau-weiß-rot
+    - weiß-blau
+    - grün-weiß-rot
+    - schwarz-gelb
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BY
+- qid: 6
+  question:
+    text: Wo können Sie sich in Bayern über politische Themen informieren?
+  answers:
+    - beim Ordnungsamt der Gemeinde
+    - bei der Landeszentrale für politische Bildung
+    - bei der Verbraucherzentrale
+    - bei den Kirchen
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BY
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Bayern heißt ...
+  answers:
+    - Ingolstadt.
+    - Regensburg.
+    - Nürnberg.
+    - München.
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BY
+- qid: 8
+  question:
+    text: Welches Bundesland ist Bayern?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BY
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Bayern?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: BY
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Bayern nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: BY
+- qid: 1
+  question:
+    text: Welches Wappen gehört zur Freien Hansestadt Bremen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: HB
+- qid: 2
+  question:
+    text: Welches ist ein Stadtteil von Bremen?
+  answers:
+    - Altona
+    - Hemelingen
+    - Pankow
+    - Babelsberg
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HB
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird das Landesparlament in Bremen gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HB
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HB
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Bremen?
+  answers:
+    - blau-weiß-rot
+    - rot-weiß
+    - grün-weiß-rot
+    - schwarz-gold
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HB
+- qid: 6
+  question:
+    text: Wo können Sie sich in Bremen über politische Themen informieren?
+  answers:
+    - beim Ordnungsamt der Gemeinde
+    - bei der Landeszentrale für politische Bildung
+    - bei den Kirchen
+    - bei der Verbraucherzentrale
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HB
+- qid: 7
+  question:
+    text: Was ist ein deutscher Stadtstaat?
+  answers:
+    - Bremen
+    - München
+    - Frankfurt
+    - Erfurt
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: HB
+- qid: 8
+  question:
+    text: Welches Bundesland ist Bremen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: HB
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Bremen?
+  answers:
+    - Ministerpräsident / Ministerpräsidentin
+    - Erster Bürgermeister / Erste Bürgermeisterin
+    - Präsident / Präsidentin des Senats
+    - Regierender Bürgermeister / Regierende Bürgermeisterin
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: HB
+- qid: 10
+  question:
+    text: Welchen Senator / welche Senatorin hat Bremen nicht?
+  answers:
+    - Senator / Senatorin für Außenbeziehungen
+    - Finanzsenator / Finanzsenatorin
+    - Justizsenator / Justizsenatorin
+    - Innensenator / Innensenatorin
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: HB
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Hessen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: HE
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Hessen?
+  answers:
+    - Ammerland
+    - Altötting
+    - Prignitz
+    - Main-Taunus-Kreis
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: HE
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Hessen gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: HE
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: HE
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Hessen?
+  answers:
+    - blau-weiß-rot
+    - rot-weiß
+    - schwarz-gold
+    - grün-weiß-rot
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HE
+- qid: 6
+  question:
+    text: Wo können Sie sich in Hessen über politische Themen informieren?
+  answers:
+    - bei der Landeszentrale für politische Bildung
+    - bei der Verbraucherzentrale
+    - beim Ordnungsamt der Gemeinde
+    - bei den Kirchen
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: HE
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Hessen heißt ...
+  answers:
+    - Kassel.
+    - Darmstadt.
+    - Frankfurt.
+    - Wiesbaden.
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: HE
+- qid: 8
+  question:
+    text: Welches Bundesland ist Hessen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: HE
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Hessen?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: HE
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Hessen nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HE
+- qid: 1
+  question:
+    text: Welches Wappen gehört zur Freien und Hansestadt Hamburg?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HH
+- qid: 2
+  question:
+    text: Welches ist ein Bezirk von Hamburg?
+  answers:
+    - Altona
+    - Hemelingen
+    - Pankow
+    - Mecklenburgische Seenplatte
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: HH
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: HH
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - 20?
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HH
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Hamburg?
+  answers:
+    - blau-weiß-rot
+    - weiß-rot
+    - grün-weiß-rot
+    - schwarz-gelb
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HH
+- qid: 6
+  question:
+    text: Wo können Sie sich in Hamburg über politische Themen informieren?
+  answers:
+    - beim Ordnungsamt der Gemeinde
+    - bei der Verbraucherzentrale
+    - bei den Kirchen
+    - bei der Landeszentrale für politische Bildung
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: HH
+- qid: 7
+  question:
+    text: Welches Bundesland ist ein Stadtstaat?
+  answers:
+    - Hamburg
+    - Sachsen
+    - Bayern
+    - Thüringen
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: HH
+- qid: 8
+  question:
+    text: Welches Bundesland ist Hamburg?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: HH
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Hamburg?
+  answers:
+    - Ministerpräsident / Ministerpräsidentin
+    - Erster Bürgermeister / Erste Bürgermeisterin
+    - Regierender Senator / Regierende Senatorin
+    - Oberbürgermeister / Oberbürgermeisterin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HH
+- qid: 10
+  question:
+    text: Welchen Senator / welche Senatorin hat Hamburg nicht?
+  answers:
+    - Justizsenator / Justizsenatorin
+    - Senator / Senatorin für Außenbeziehungen
+    - Finanzsenator / Finanzsenatorin
+    - Innensenator / Innensenatorin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: HH
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: MV
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Mecklenburg-Vorpommern?
+  answers:
+    - Prignitz
+    - Mecklenburgische Seenplatte
+    - Vogtlandkreis
+    - Rhein-Sieg-Kreis
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: MV
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: MV
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: MV
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Mecklenburg-Vorpommern?
+  answers:
+    - schwarz-rot-gold
+    - blau-weiß-gelb-rot
+    - grün-weiß-rot
+    - schwarz-gelb
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: MV
+- qid: 6
+  question:
+    text: Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?
+  answers:
+    - bei der Landeszentrale für politische Bildung
+    - bei den Kirchen
+    - beim Ordnungsamt der Gemeinde
+    - bei der Verbraucherzentrale
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: MV
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Mecklenburg-Vorpommern heißt ...
+  answers:
+    - Greifswald.
+    - Schwerin.
+    - Rostock.
+    - Wismar.
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: MV
+- qid: 8
+  question:
+    text: Welches Bundesland ist Mecklenburg-Vorpommern?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: MV
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Mecklenburg-Vorpommern?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: MV
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Mecklenburg-Vorpommern nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: MV
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Niedersachsen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: NI
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Niedersachsen?
+  answers:
+    - Ammerland
+    - Rhein-Sieg-Kreis
+    - Nordfriesland
+    - Vogtlandkreis
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: NI
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: NI
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: NI
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Niedersachsen?
+  answers:
+    - weiß-blau
+    - schwarz-rot-gold
+    - schwarz-gelb
+    - blau-weiß-rot
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: NI
+- qid: 6
+  question:
+    text: Wo können Sie sich in Niedersachsen über politische Themen informieren?
+  answers:
+    - beim Koordinator für politische Bildung im Kultusministerium
+    - beim Ordnungsamt der Gemeinde
+    - bei der Verbraucherzentrale
+    - bei den Kirchen
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: NI
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Niedersachsen heißt ...
+  answers:
+    - Hannover.
+    - Braunschweig.
+    - Wolfsburg.
+    - Osnabrück.
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: NI
+- qid: 8
+  question:
+    text: Welches Bundesland ist Niedersachsen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: NI
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Niedersachsen?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: NI
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Niedersachsen nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: NI
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Nordrhein-Westfalen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: NW
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Nordrhein-Westfalen?
+  answers:
+    - Ammerland
+    - Rhein-Sieg-Kreis
+    - Nordfriesland
+    - Vogtlandkreis
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: NW
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Nordrhein-Westfalen gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: NW
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: NW
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Nordrhein-Westfalen?
+  answers:
+    - rot-weiß
+    - grün-weiß-rot
+    - schwarz-gold
+    - blau-weiß-rot
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: NW
+- qid: 6
+  question:
+    text: Wo können Sie sich in Nordrhein-Westfalen über politische Themen informieren?
+  answers:
+    - bei den Kirchen
+    - beim Ordnungsamt der Gemeinde
+    - bei der Verbraucherzentrale
+    - bei der Landeszentrale für politische Bildung
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: NW
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Nordrhein-Westfalen heißt ...
+  answers:
+    - Köln.
+    - Bonn.
+    - Düsseldorf.
+    - Dortmund.
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: NW
+- qid: 8
+  question:
+    text: Welches Bundesland ist Nordrhein-Westfalen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: NW
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Nordrhein-Westfalen?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: NW
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Nordrhein-Westfalen nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: NW
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Rheinland-Pfalz?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: RP
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Rheinland-Pfalz?
+  answers:
+    - Westerwaldkreis
+    - Altötting
+    - Emsland
+    - Prignitz
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: RP
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Rheinland-Pfalz gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: RP
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Rheinland-Pfalz bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: RP
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Rheinland-Pfalz?
+  answers:
+    - weiß-rot
+    - schwarz-rot-gold
+    - schwarz-gelb
+    - grün-weiß-rot
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: RP
+- qid: 6
+  question:
+    text: Wo können Sie sich in Rheinland-Pfalz über politische Themen informieren?
+  answers:
+    - bei den Kirchen
+    - bei der Verbraucherzentrale
+    - beim Ordnungsamt der Gemeinde
+    - bei der Landeszentrale für politische Bildung
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: RP
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Rheinland-Pfalz heißt ...
+  answers:
+    - Mainz.
+    - Kaiserslautern.
+    - Ludwigshafen.
+    - Koblenz.
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: RP
+- qid: 8
+  question:
+    text: Welches Bundesland ist Rheinland-Pfalz?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: RP
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Rheinland-Pfalz?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: RP
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Rheinland-Pfalz nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: RP
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Schleswig-Holstein?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SH
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Schleswig-Holstein?
+  answers:
+    - Ammerland
+    - Mecklenburgische Seenplatte
+    - Nordfriesland
+    - Rhein-Sieg-Kreis
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SH
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Schleswig-Holstein gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SH
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SH
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Schleswig-Holstein?
+  answers:
+    - weiß-blau
+    - blau-weiß-rot
+    - weiß-rot
+    - grün-weiß-rot
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SH
+- qid: 6
+  question:
+    text: Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?
+  answers:
+    - bei der Verbraucherzentrale
+    - beim Ordnungsamt der Gemeinde
+    - beim/bei der Landesbeauftragten für politische Bildung
+    - bei den Kirchen
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SH
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Schleswig-Holstein heißt ...
+  answers:
+    - Husum.
+    - Flensburg.
+    - Lübeck.
+    - Kiel.
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: SH
+- qid: 8
+  question:
+    text: Welches Bundesland ist Schleswig-Holstein?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: SH
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Schleswig-Holstein?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: SH
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Schleswig-Holstein nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SH
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Saarland?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: SL
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis im Saarland?
+  answers:
+    - Mecklenburgische Seenplatte
+    - Altötting
+    - Neunkirchen
+    - Rhein-Sieg-Kreis
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SL
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag des Saarlandes gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SL
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man im Saarland bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SL
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge des Saarlandes?
+  answers:
+    - weiß-blau
+    - schwarz-rot-gold
+    - schwarz-gelb
+    - grün-weiß-rot
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SL
+- qid: 6
+  question:
+    text: Wo können Sie sich im Saarland über politische Themen informieren?
+  answers:
+    - bei den Kirchen
+    - bei der Landeszentrale für politische Bildung
+    - bei der Verbraucherzentrale
+    - beim Ordnungsamt der Gemeinde
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SL
+- qid: 7
+  question:
+    text: Die Landeshauptstadt des Saarlandes heißt ...
+  answers:
+    - Neunkirchen.
+    - Homburg.
+    - Saarbrücken.
+    - Völklingen.
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SL
+- qid: 8
+  question:
+    text: Welches Bundesland ist das Saarland?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SL
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin des Saarlandes?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: SL
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat das Saarland nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SL
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Freistaat Sachsen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: SN
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Sachsen?
+  answers:
+    - Vogtlandkreis
+    - Altötting
+    - Uckermark
+    - Nordfriesland
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: SN
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Sachsen gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SN
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Sachsen bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: SN
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Sachsen?
+  answers:
+    - blau-weiß-rot
+    - weiß-grün
+    - grün-weiß-rot
+    - schwarz-gelb
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SN
+- qid: 6
+  question:
+    text: Wo können Sie sich in Sachsen über politische Themen informieren?
+  answers:
+    - bei der Landeszentrale für politische Bildung
+    - beim Ordnungsamt der Gemeinde
+    - bei den Kirchen
+    - bei der Verbraucherzentrale
+  metadata:
+    rightAnswer: 0
+    type: regional
+    region: SN
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Sachsen heißt ...
+  answers:
+    - Leipzig.
+    - Dresden.
+    - Chemnitz.
+    - Zwickau.
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SN
+- qid: 8
+  question:
+    text: Welches Bundesland ist Sachsen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: SN
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Sachsen?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: SN
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Sachsen nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: SN
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Bundesland Sachsen-Anhalt?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: ST
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Sachsen-Anhalt?
+  answers:
+    - Ammerland
+    - Altötting
+    - Uckermark
+    - Börde
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: ST
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Sachsen-Anhalt gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: ST
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Sachsen-Anhalt bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: ST
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Sachsen-Anhalt?
+  answers:
+    - blau-weiß-rot
+    - gelb-schwarz
+    - grün-weiß-rot
+    - weiß-rot
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: ST
+- qid: 6
+  question:
+    text: Wo können Sie sich in Sachsen-Anhalt über politische Themen informieren?
+  answers:
+    - bei den Kirchen
+    - bei der Landeszentrale für politische Bildung
+    - beim Ordnungsamt der Gemeinde
+    - bei der Verbraucherzentrale
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: ST
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Sachsen-Anhalt heißt ...
+  answers:
+    - Halle.
+    - Dessau.
+    - Magdeburg.
+    - Wittenberg.
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: ST
+- qid: 8
+  question:
+    text: Welches Bundesland ist Sachsen-Anhalt?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: ST
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Sachsen-Anhalt?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: ST
+- qid: 1
+  question:
+    text: Welchen Minister / welche Ministerin hat Sachsen-Anhalt nicht? )
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: ST
+- qid: 1
+  question:
+    text: Welches Wappen gehört zum Freistaat Thüringen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: TH
+- qid: 2
+  question:
+    text: Welches ist ein Landkreis in Thüringen?
+  answers:
+    - Ammerland
+    - Altötting
+    - Nordfriesland
+    - Wartburgkreis
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: TH
+- qid: 3
+  question:
+    text: Für wie viele Jahre wird der Landtag in Thüringen gewählt?
+  answers:
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: TH
+- qid: 4
+  question:
+    text: Ab welchem Alter darf man in Thüringen bei Kommunalwahlen wählen?
+  answers:
+    - "14"
+    - "16"
+    - "18"
+    - "20"
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: TH
+- qid: 5
+  question:
+    text: Welche Farben hat die Landesflagge von Thüringen?
+  answers:
+    - blau-weiß-rot
+    - weiß-rot
+    - grün-weiß-rot
+    - schwarz-gold
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: TH
+- qid: 6
+  question:
+    text: Wo können Sie sich in Thüringen über politische Themen informieren?
+  answers:
+    - bei den Kirchen
+    - bei der Verbraucherzentrale
+    - bei der Landeszentrale für politische Bildung
+    - beim Ordnungsamt der Gemeinde
+  metadata:
+    rightAnswer: 2
+    type: regional
+    region: TH
+- qid: 7
+  question:
+    text: Die Landeshauptstadt von Thüringen heißt ...
+  answers:
+    - Eisenach.
+    - Erfurt.
+    - Gera.
+    - Jena.
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: TH
+- qid: 8
+  question:
+    text: Welches Bundesland ist Thüringen?
+  answers:
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: TH
+- qid: 9
+  question:
+    text: Wie nennt man den Regierungschef / die Regierungschefin in Thüringen?
+  answers:
+    - Erster Minister / Erste Ministerin
+    - Premierminister / Premierministerin
+    - Bürgermeister / Bürgermeisterin
+    - Ministerpräsident / Ministerpräsidentin
+  metadata:
+    rightAnswer: 3
+    type: regional
+    region: TH
+- qid: 10
+  question:
+    text: Welchen Minister / welche Ministerin hat Thüringen nicht?
+  answers:
+    - Justizminister / Justizministerin
+    - Außenminister / Außenministerin
+    - Finanzminister / Finanzministerin
+    - Innenminister / Innenministerin
+  metadata:
+    rightAnswer: 1
+    type: regional
+    region: TH

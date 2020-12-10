@@ -17,6 +17,30 @@ p > a {
   text-decoration: underline;
 }
 
+// Solves sticky hover problem on devices without hover capability
+// https://developer.mozilla.org/en-US/docs/Web/CSS/@media/hover
+@media (hover: hover) {
+  .main-nav > li > a:hover {
+    color: @black;
+  }
+
+  .cookie-consent__button__accept:hover {
+    text-decoration: underline;
+  }
+
+  .card__answers__item:hover {
+    border-color: @light-grey;
+  }
+
+  .cookie-consent__button__decline:hover {
+    text-decoration: underline;
+  }
+
+  .cookie-consent__link:hover {
+    color: lighten(@offwhite, 50%) !important;
+  }
+}
+
 @media (max-width: 1200px) {
   .page__header__secondary {
     margin-left: 1.3rem;
@@ -37,13 +61,16 @@ p > a {
     letter-spacing: 0.2rem !important;
   }
 
+  .scroll-to-top {
+    bottom: 120px !important;
+    right: 30px !important;
+  }
 }
 
-/* Main container*/
-
-@media (min-width: 1200px) {
+@media (max-width: 1900px) and (min-width: 1200px){
   .main-container {
-    padding-left: 370px !important;
+    margin-left: 60px !important;
+    margin-right: 60px !important;
   }
 }
 
@@ -83,10 +110,6 @@ p > a {
   cursor: pointer;
 }
 
-.main-container {
-  flex: 1 0 auto;
-}
-
 .content-wrapper {
   flex: 1 0 auto;
 }
@@ -96,11 +119,11 @@ p > a {
 
   & > li > a {
     color: @light-black;
-
-    &:hover {
-      color: @black;
-    }
   }
+}
+
+.single-question__section {
+  padding-top: 5vh;
 }
 
 /*  Card */
@@ -125,10 +148,6 @@ p > a {
   border-style: solid;
   border-color: @dark-grey;
   padding: 8px;
-}
-
-.card__answers__item:hover {
-  border-color: @light-grey;
 }
 
 .card__answers__answer-id-gutter {
@@ -165,8 +184,9 @@ p > a {
   font-weight: bolder;
 }
 
-.card__image {
-  max-height: 20em;
+.card__image__container {
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 .card__footer__reveal-button {
@@ -199,13 +219,14 @@ p > a {
   font-size: 1.2rem;
 }
 
-.sidebar__fixed__container {
+.sidebar__fixed {
   border-right: @sidebar-border;
   padding: 50px;
+  min-height: 90%;
 }
 
 .sidebar__link__active {
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
 
 .footer {
@@ -219,6 +240,13 @@ p > a {
   height: 1.5rem;
   margin-left: 0.2rem;
   vertical-align: text-bottom;
+}
+
+.footer__fixednav-stopper {
+  height: 1px;
+  width: 1px;
+  bottom: 200px;
+  position: absolute;
 }
 
 .score-board {
@@ -246,7 +274,6 @@ p > a {
   border: 0.1rem solid @offwhite;
 }
 
-.cookie-consent__button__accept:hover,
 .cookie-consent__button__accept:focus {
   text-decoration: underline;
 }
@@ -262,7 +289,6 @@ p > a {
   border: 0.1rem solid @offwhite;
 }
 
-.cookie-consent__button__decline:hover,
 .cookie-consent__button__decline:focus {
   text-decoration: underline;
 }
@@ -274,10 +300,6 @@ p > a {
 
 .cookie-consent__link {
   font-size: 0.75rem;
-
-  &:hover {
-    color: lighten(@offwhite, 50%) !important;
-  }
 }
 
 .page__header__secondary {
@@ -331,4 +353,16 @@ p > a {
   width: 66%;
   -webkit-transform: rotate(-0.5deg) translatey(0.1em) translatex(0.33em);
   transform: rotate(-0.5deg) translatey(0.1em) translatex(0.33em)
+}
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 85px;
+  right: 30px;
+  opacity: 0.7;
+}
+
+.scroll-to-top__icon {
+  background-color: @light-black;
+  color: @offwhite;
 }

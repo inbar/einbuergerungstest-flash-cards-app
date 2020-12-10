@@ -1,5 +1,5 @@
-import React, {Fragment} from 'react'
-import logo from "../resources/images/logo_wide.png";
+import React from 'react'
+import logo from "../../resources/images/logo_wide.png";
 import {Helmet} from "react-helmet";
 
 const SITE_NAME = "Einbürgerunstest Flash Cards App";
@@ -10,7 +10,7 @@ function getTitle(suffix) {
 
 function MetaTags(props) {
     const title = getTitle(props.titleSuffix);
-    const url = window.location.href;
+    const url = props.location.href;
     return (
         <Helmet>
             <title>{title}</title>

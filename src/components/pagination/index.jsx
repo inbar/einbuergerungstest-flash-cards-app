@@ -10,13 +10,13 @@ function Pagination(props) {
                         props.allowedNumOfEntries.map((n) => {
                             return (
                                 <li key={n} className={props.numOfEntries === n ? 'uk-active' : ''}>
-                                    <_EntriesPerPageLink handler={props.entriesNumberChangeHandler} numOfEntries={n}/>
+                                    <EntriesPerPageLink handler={props.entriesNumberChangeHandler} numOfEntries={n}/>
                                 </li>
                             )
                         })
                     }
                     <li className={props.numOfEntries === props.maxEntries ? 'uk-active' : ''}>
-                        <a onClick={(e) => props.entriesNumberChangeHandler(props.maxEntries, e)}>All</a>
+                        <span role="button" className="clickable" {...allHandlers((e) => props.entriesNumberChangeHandler(props.maxEntries, e))}>All</span>
                     </li>
 
                 </ul>
@@ -24,24 +24,20 @@ function Pagination(props) {
                 {/*Pagination*/}
                 <ul className="uk-pagination uk-flex-right@l uk-flex-center uk-flex-center">
                     <li className={props.currentPage === 1 ? 'uk-disabled' : ''}>
-                        <a onClick={props.pageDecreaseHandler}>
-                            <span data-uk-pagination-previous></span>
-                        </a>
+                        <span role="button" className="clickable" {...allHandlers(props.pageDecreaseHandler)}><span data-uk-pagination-previous></span></span>
                     </li>
 
-                    <_PaginationLinks numOfPages={props.numOfPages} currentPage={props.currentPage} pageChangeHandler={props.pageChangeHandler}/>
+                    <PaginationLinks numOfPages={props.numOfPages} currentPage={props.currentPage} pageChangeHandler={props.pageChangeHandler}/>
                     
                     <li className={props.currentPage === props.numOfPages ? 'uk-disabled' : ''}>
-                        <a onClick={props.pageIncreaseHandler}>
-                            <span data-uk-pagination-next></span>
-                        </a>
+                        <span role="button" className="clickable" {...allHandlers(props.pageIncreaseHandler)}><span data-uk-pagination-next></span></span>
                     </li>
                 </ul>
             </div>
         )
 }
 
-function _PaginationLinks(props) {
+function PaginationLinks(props) {
     const maxPagesToDisplay = 11;
     const ranges = [];
     const toSplit = props.numOfPages > maxPagesToDisplay;
@@ -71,9 +67,8 @@ function _PaginationLinks(props) {
         const items = range.map(n => {
             return (
                 <li key={n}
-                    className={props.currentPage === n ? 'uk-active' : ''}
-                >
-                    <_PaginationLink page={n} handler={props.pageChangeHandler}/>
+                    className={props.currentPage === n ? 'uk-active' : ''}>
+                    <PaginationLink page={n} handler={props.pageChangeHandler}/>
                 </li>
             )
         });
@@ -86,15 +81,15 @@ function _PaginationLinks(props) {
     return result;
 }
 
-function _EntriesPerPageLink(props) {
+function EntriesPerPageLink(props) {
     return (
-        <a onClick={(e) => props.handler( props.numOfEntries, e)}>{props.numOfEntries}</a>
+        <span role="button" className="clickable" {...allHandlers((e) => props.handler( props.numOfEntries, e))}>{props.numOfEntries}</span>
     );
 }
 
-function _PaginationLink(props) {
+function PaginationLink(props) {
     return (
-        <a onClick={(e) => props.handler(props.page, e)}>{props.page}</a>
+        <span role="button" className="clickable" {...allHandlers((e) => props.handler(props.page, e))}>{props.page}</span>
     );
 }
 
@@ -105,6 +100,14 @@ function intRange(start, end) {
         range.push(i);
     }
     return range;
+}
+
+function allHandlers(fn) {
+    return {
+        onClick: fn,
+        onPointerDown: fn,
+        onKeyDown: fn
+    }
 }
 
 export default Pagination;

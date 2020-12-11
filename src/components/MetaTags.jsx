@@ -1,14 +1,19 @@
 import React from 'react'
-import logo from "../../resources/images/logo_1200.png";
 import {Helmet} from "react-helmet";
+import useMetadata from "../hooks/useMetadata";
 
-const SITE_NAME = "Einbürgerunstest Flash Cards App";
-function getTitle(suffix) {
-    return `${SITE_NAME} | ${suffix}`;
 
-}
 
 function MetaTags(props) {
+    const metadata = useMetadata();
+    const siteName = metadata.name;
+    const siteUrl = metadata.url;
+    
+    function getTitle(suffix) {
+        return `${siteName} | ${suffix}`;
+
+    }
+    
     const title = getTitle(props.titleSuffix);
     const url = props.location.href;
     return (
@@ -19,10 +24,10 @@ function MetaTags(props) {
             
             {/* Open Graph / Facebook */}
             <meta property="og:title" content={title}/>
-            <meta property="og:site_name" content={SITE_NAME}/>
+            <meta property="og:site_name" content={siteName}/>
 
             <meta property="og:url" content={url}/>
-            <meta property="og:image" content="https://raw.githubusercontent.com/inbar/einbuergerungstest-flash-cards-app/dev/src/resources/images/logo_wide.png" />
+            <meta property="og:image" content={`${siteUrl}/logo/logo_wide.png`} />
             <meta property="og:image:width" content="1200"/>
             <meta property="og:image:height" content="630"/>
             <meta property="og:description" content={props.description}/>

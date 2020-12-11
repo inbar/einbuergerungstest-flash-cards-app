@@ -38,7 +38,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                icon: `resources/images/logo_500.png`,
+                icon: `static/logo/logo_500.png`,
                 name: `Einbürgerungstest Flash Cards`,
                 short_name: `Einbürgerungstest`,
                 start_url: `/home`,

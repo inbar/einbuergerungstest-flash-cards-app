@@ -1,19 +1,38 @@
-import React, {useContext} from "react";
+import React, {Fragment, useContext, useEffect, useState} from "react";
 import {enterOrSpace} from "./../utils/Accessibility";
-import { CookieConsentContext } from "./CookieConsentContext"
+import {CookieConsentContext} from "./CookieConsentContext"
 
 function CookieConsentBanner(props) {
 
     const {
         hasCookieConsent,
         declinedCookieConsent,
+    } = useContext(CookieConsentContext);
+
+    const [showBanner, setShowBanner] = useState(false);
+
+    useEffect(() => {
+        setShowBanner(!declinedCookieConsent && !hasCookieConsent);
+    }, [hasCookieConsent, declinedCookieConsent]);
+
+    return (
+        <Fragment>
+            {
+                showBanner &&
+                <Banner>
+                    {props.children}
+                </Banner>
+            }
+        </Fragment>
+
+    )
+}
+
+function Banner(props) {
+    const {
         acceptHandler,
         declineHandler
     } = useContext(CookieConsentContext);
-    
-    if (declinedCookieConsent || hasCookieConsent) {
-        return null;
-    }
 
     return (
         <aside
@@ -34,7 +53,7 @@ function CookieConsentBanner(props) {
                             onClick={declineHandler}
                             onPointerDown={declineHandler}
                             onKeyDown={enterOrSpace(declineHandler)}
-                        >Not OK
+                    >Not OK
                     </button>
                 </div>
 
@@ -42,7 +61,6 @@ function CookieConsentBanner(props) {
         </aside>
     )
 }
-
 
 
 export default CookieConsentBanner;

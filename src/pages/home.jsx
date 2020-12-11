@@ -42,7 +42,7 @@ function Home(props) {
                 {
                     regions.map(region => {
                         return (
-                            <div className="uk-grid-small uk-width-large" data-uk-grid key={region.regionName}>
+                            <div className="uk-grid-small uk-width-large" data-uk-grid key={region.readableName}>
                                 <div className="uk-width-expand" data-uk-leader><b>{region.readableName}:</b></div>
                                 <div>
                                     <Link to={region.regionPathFlashCards} className="uk-link-text">Flash Cards</Link> | <Link to={region.regionPathFlashCards} className="uk-link-text">Take Test</Link><br/>
@@ -82,7 +82,7 @@ function Home(props) {
                 This site takes no responsibility and makes no guarantee on the accuracy of the content and any eventual test results.
 
                 <br/><br/>
-                <Link to={`/${PATHS.disclaimer}`} className="uk-link-text">Full Disclaimer</Link>
+                <Link to={PATHS.disclaimer} className="uk-link-text">Full Disclaimer</Link>
             </p>
 
 

@@ -7,7 +7,7 @@
     "start": "gatsby develop -H 0.0.0.0",
     "build": "gatsby build",
     "release": "gatsby build",
-    "serve": "gatsby serve",
+    "serve": "gatsby build && gatsby serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

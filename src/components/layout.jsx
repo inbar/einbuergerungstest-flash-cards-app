@@ -116,7 +116,7 @@ function NavLink(props) {
     )
 }
 
-function Nav(props) {
+function Nav() {
     const regions = useRegions();
     const location = useLocation();
 
@@ -137,8 +137,7 @@ function Nav(props) {
                             regions.map(region => {
                                 return (
                                     <li key={region.region}>
-                                        <NavLink
-                                            to={region.regionPathFlashCards}>{getRegionPrettyName(region.region)}</NavLink>
+                                        <NavLink to={region.regionPathFlashCards}>{getRegionPrettyName(region.region)}</NavLink>
                                     </li>
                                 )
                             })
@@ -153,8 +152,7 @@ function Nav(props) {
                             regions.map(region => {
                                 return (
                                     <li key={region.region}>
-                                        <NavLink
-                                            to={region.regionPathTest}>{getRegionPrettyName(region.region)}</NavLink>
+                                        <NavLink to={region.regionPathTest}>{getRegionPrettyName(region.region)}</NavLink>
                                     </li>
                                 )
                             })

@@ -27,9 +27,9 @@ function MetaTags(props) {
             <meta property="og:site_name" content={siteName}/>
 
             <meta property="og:url" content={url}/>
-            <meta property="og:image" content={`${siteUrl}/logo/logo_wide.png`} />
-            <meta property="og:image:width" content="1200"/>
-            <meta property="og:image:height" content="630"/>
+            <meta property="og:image" content={`${siteUrl}/logo/logo_500.png`} />
+            <meta property="og:image:width" content="500"/>
+            <meta property="og:image:height" content="500"/>
             <meta property="og:description" content={props.description}/>
             
             {/* Twitter */}

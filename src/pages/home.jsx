@@ -2,7 +2,7 @@ import React from 'react'
 import ExternalLink from "./../components/ExternalLink";
 import MetaTags from "./../components/MetaTags";
 import {Link} from "gatsby"
-import regionHooks from "../hooks/RegionHooks";
+import regionHooks from "../hooks/useRegions";
 import {PATHS} from "../components/layout";
 
 function Home(props) {

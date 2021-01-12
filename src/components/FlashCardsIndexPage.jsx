@@ -1,4 +1,4 @@
-import useRegions, {getRegionPrettyName} from "../hooks/RegionHooks";
+import useRegions, {getRegionPrettyName} from "../hooks/useRegions";
 import React, {Fragment} from "react";
 import MetaTags from "./MetaTags";
 import {Link} from "gatsby";

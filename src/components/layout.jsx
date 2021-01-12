@@ -5,7 +5,7 @@ import Headroom from "react-headroom";
 import CookieConsentBanner from "./CookieConsentBanner";
 import Sidebar from "./sidebar";
 import {Link} from "gatsby"
-import useRegions, {getRegionPrettyName} from "./../hooks/RegionHooks";
+import useRegions, {getRegionPrettyName} from "./../hooks/useRegions";
 import {useLocation} from "@reach/router";
 import {ScrollToTop, doScrollToTop} from "./ScrollToTop";
 

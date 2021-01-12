@@ -11,6 +11,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 2
   question:
     text: >
@@ -24,6 +26,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 3
   question:
     text: >
@@ -37,6 +41,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 4
   question:
     text: >
@@ -50,6 +56,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 5
   question:
     text: >
@@ -63,6 +71,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 6
   question:
     text: >
@@ -76,6 +86,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 7
   question:
     text: Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf …
@@ -88,6 +100,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 8
   question:
     text: >
@@ -101,6 +115,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 9
   question:
     text: >
@@ -114,6 +130,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 10
   question:
     text: >
@@ -127,6 +145,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 11
   question:
     text: >
@@ -140,6 +160,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 12
   question:
     text: >
@@ -153,6 +175,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 13
   question:
     text: >
@@ -166,6 +190,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 14
   question:
     text: >
@@ -179,6 +205,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 15
   question:
     text: >
@@ -192,6 +220,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 16
   question:
     text: >
@@ -205,6 +235,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 17
   question:
     text: >
@@ -218,6 +250,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 18
   question:
     text: >
@@ -231,6 +265,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 19
   question:
     text: >
@@ -244,6 +280,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 20
   question:
     text: >
@@ -257,6 +295,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 21
   question:
     text: >
@@ -270,6 +310,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Staatssymbole
 - qid: 22
   question:
     text: >
@@ -283,6 +325,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 23
   question:
     text: >
@@ -296,6 +340,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Sozialsystem
 - qid: 24
   question:
     text: >
@@ -309,6 +355,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Föderalismus
 - qid: 25
   question:
     text: >
@@ -322,6 +370,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Föderalismus
 - qid: 26
   question:
     text: >
@@ -335,6 +385,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 27
   question:
     text: >
@@ -348,6 +400,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 28
   question:
     text: >
@@ -361,6 +415,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 29
   question:
     text: >
@@ -374,6 +430,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Staatssymbole
 - qid: 30
   question:
     text: >
@@ -387,6 +445,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 31
   question:
     text: >
@@ -400,6 +460,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 32
   question:
     text: >
@@ -413,6 +475,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 33
   question:
     text: >
@@ -426,6 +490,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Religiöse Vielfalt
 - qid: 34
   question:
     text: >
@@ -439,6 +505,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 35
   question:
     text: >
@@ -452,6 +520,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Sozialsystem
 - qid: 36
   question:
     text: >
@@ -465,6 +535,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Sozialsystem
 - qid: 37
   question:
     text: >
@@ -478,6 +550,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Föderalismus
 - qid: 38
   question:
     text: >
@@ -491,6 +565,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Föderalismus
 - qid: 39
   question:
     text: >
@@ -504,6 +580,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Föderalismus
 - qid: 40
   question:
     text: >
@@ -517,6 +595,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Staatssymbole
 - qid: 41
   question:
     text: >
@@ -530,6 +610,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 42
   question:
     text: >
@@ -543,6 +625,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 43
   question:
     text: >
@@ -556,6 +640,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 44
   question:
     text: >
@@ -569,6 +655,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 45
   question:
     text: >
@@ -582,6 +670,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Sozialsystem
 - qid: 46
   question:
     text: >
@@ -595,6 +685,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Aufgaben des Staates
 - qid: 47
   question:
     text: >
@@ -608,6 +700,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Aufgaben des Staates
 - qid: 48
   question:
     text: >
@@ -621,6 +715,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 49
   question:
     text: >
@@ -634,6 +730,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Föderalismus
 - qid: 50
   question:
     text: >
@@ -647,6 +745,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 51
   question:
     text: >
@@ -660,6 +760,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 52
   question:
     text: >
@@ -673,6 +775,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 53
   question:
     text: >
@@ -686,6 +790,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 54
   question:
     text: >
@@ -699,6 +805,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 55
   question:
     text: >
@@ -712,6 +820,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 56
   question:
     text: >
@@ -725,6 +835,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 57
   question:
     text: >
@@ -738,6 +850,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 58
   question:
     text: >
@@ -751,6 +865,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 59
   question:
     text: >
@@ -764,6 +880,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Parteien
 - qid: 60
   question:
     text: >
@@ -777,6 +895,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 61
   question:
     text: >
@@ -790,6 +910,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 62
   question:
     text: >
@@ -803,6 +925,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 63
   question:
     text: >
@@ -816,6 +940,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 64
   question:
     text: >
@@ -829,6 +955,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Föderalismus
 - qid: 65
   question:
     text: >
@@ -842,6 +970,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Föderalismus
 - qid: 66
   question:
     text: >
@@ -855,6 +985,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Staatssymbole
 - qid: 67
   question:
     text: >
@@ -868,6 +1000,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Föderalismus
 - qid: 68
   question:
     text: >
@@ -881,6 +1015,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Aufgaben des Staates
 - qid: 69
   question:
     text: >
@@ -894,6 +1030,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 70
   question:
     text: >
@@ -907,6 +1045,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 71
   question:
     text: >
@@ -920,6 +1060,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 72
   question:
     text: >
@@ -933,6 +1075,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 73
   question:
     text: >
@@ -946,6 +1090,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Parteien
 - qid: 74
   question:
     text: >
@@ -959,6 +1105,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 75
   question:
     text: >
@@ -972,6 +1120,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 76
   question:
     text: >
@@ -985,6 +1135,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Parteien
 - qid: 77
   question:
     text: >
@@ -998,6 +1150,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Aufgaben des Staates
 - qid: 78
   question:
     text: >
@@ -1011,6 +1165,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Parteien
 - qid: 79
   question:
     text: >
@@ -1024,6 +1180,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Parteien
 - qid: 80
   question:
     text: >
@@ -1037,6 +1195,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 81
   question:
     text: >
@@ -1050,6 +1210,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 82
   question:
     text: >
@@ -1063,6 +1225,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 83
   question:
     text: >
@@ -1076,6 +1240,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 84
   question:
     text: >
@@ -1089,6 +1255,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 85
   question:
     text: >
@@ -1102,6 +1270,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 86
   question:
     text: >
@@ -1115,6 +1285,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 87
   question:
     text: >
@@ -1128,6 +1300,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 88
   question:
     text: >
@@ -1141,6 +1315,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 89
   question:
     text: >
@@ -1154,6 +1330,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 90
   question:
     text: >
@@ -1167,6 +1345,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 91
   question:
     text: >
@@ -1180,6 +1360,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 92
   question:
     text: >
@@ -1193,6 +1375,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Parteien
 - qid: 93
   question:
     text: >
@@ -1206,6 +1390,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 94
   question:
     text: >
@@ -1219,6 +1405,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 95
   question:
     text: >
@@ -1232,6 +1420,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Pflichten
 - qid: 96
   question:
     text: >
@@ -1245,6 +1435,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Pflichten
 - qid: 97
   question:
     text: >
@@ -1258,6 +1450,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Sozialsystem
 - qid: 98
   question:
     text: >
@@ -1271,6 +1465,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 99
   question:
     text: >
@@ -1284,6 +1480,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Sozialsystem
 - qid: 100
   question:
     text: >
@@ -1297,6 +1495,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Sozialsystem
 - qid: 101
   question:
     text: >
@@ -1310,6 +1510,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 102
   question:
     text: >
@@ -1323,6 +1525,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 103
   question:
     text: >
@@ -1336,6 +1540,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Parteien
 - qid: 104
   question:
     text: >
@@ -1349,6 +1555,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 105
   question:
     text: >
@@ -1362,6 +1570,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Pflichten
 - qid: 106
   question:
     text: >
@@ -1375,6 +1585,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Pflichten
 - qid: 107
   question:
     text: >
@@ -1388,6 +1600,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 108
   question:
     text: >
@@ -1401,6 +1615,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 109
   question:
     text: >
@@ -1414,6 +1630,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 110
   question:
     text: >
@@ -1427,6 +1645,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 111
   question:
     text: >
@@ -1440,6 +1660,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 112
   question:
     text: >
@@ -1453,6 +1675,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 113
   question:
     text: >
@@ -1466,6 +1690,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 114
   question:
     text: >
@@ -1479,6 +1705,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 115
   question:
     text: >
@@ -1492,6 +1720,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 116
   question:
     text: >
@@ -1505,6 +1735,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 117
   question:
     text: >
@@ -1518,6 +1750,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 118
   question:
     text: >
@@ -1531,6 +1765,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 119
   question:
     text: >
@@ -1544,6 +1780,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 120
   question:
     text: >
@@ -1557,6 +1795,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 121
   question:
     text: >
@@ -1570,6 +1810,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 122
   question:
     text: >
@@ -1583,6 +1825,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 123
   question:
     text: >
@@ -1596,6 +1840,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 124
   question:
     text: >
@@ -1609,6 +1855,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 125
   question:
     text: >
@@ -1622,6 +1870,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 126
   question:
     text: >
@@ -1635,6 +1885,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 127
   question:
     text: >
@@ -1648,6 +1900,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 128
   question:
     text: >
@@ -1661,6 +1915,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 129
   question:
     text: >
@@ -1674,6 +1930,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsorgane
 - qid: 130
   question:
     text: >
@@ -1687,6 +1945,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 131
   question:
     text: >
@@ -1700,6 +1960,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 132
   question:
     text: >
@@ -1713,6 +1975,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 133
   question:
     text: >
@@ -1726,6 +1990,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 134
   question:
     text: >
@@ -1739,6 +2005,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Wahlen und Beteiligung
 - qid: 135
   question:
     text: >
@@ -1752,6 +2020,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 136
   question:
     text: >
@@ -1765,6 +2035,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 137
   question:
     text: >
@@ -1778,6 +2050,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 138
   question:
     text: >
@@ -1791,6 +2065,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 139
   question:
     text: >
@@ -1804,6 +2080,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 140
   question:
     text: >
@@ -1817,6 +2095,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 141
   question:
     text: >
@@ -1830,6 +2110,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 142
   question:
     text: >
@@ -1843,6 +2125,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 143
   question:
     text: >
@@ -1856,6 +2140,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 144
   question:
     text: >
@@ -1869,6 +2155,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 145
   question:
     text: >
@@ -1882,6 +2170,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 146
   question:
     text: >
@@ -1895,6 +2185,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 147
   question:
     text: >
@@ -1908,6 +2200,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 148
   question:
     text: >
@@ -1921,6 +2215,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Verfassungsprinzipien
 - qid: 149
   question:
     text: >
@@ -1934,6 +2230,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 150
   question:
     text: >
@@ -1947,6 +2245,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 151
   question:
     text: >
@@ -1960,6 +2260,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 152
   question:
     text: >
@@ -1973,6 +2275,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 153
   question:
     text: >
@@ -1986,6 +2290,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 154
   question:
     text: >
@@ -1999,6 +2305,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 155
   question:
     text: >
@@ -2012,6 +2320,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 156
   question:
     text: >
@@ -2025,6 +2335,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 157
   question:
     text: >
@@ -2038,6 +2350,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 158
   question:
     text: >
@@ -2051,6 +2365,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 159
   question:
     text: >
@@ -2064,6 +2380,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 160
   question:
     text: >
@@ -2077,6 +2395,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 161
   question:
     text: >
@@ -2090,6 +2410,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 162
   question:
     text: >
@@ -2103,6 +2425,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 163
   question:
     text: >
@@ -2116,6 +2440,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 164
   question:
     text: >
@@ -2129,6 +2455,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 165
   question:
     text: >
@@ -2142,6 +2470,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 166
   question:
     text: >
@@ -2155,6 +2485,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 167
   question:
     text: >
@@ -2168,6 +2500,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 168
   question:
     text: >
@@ -2181,6 +2515,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 169
   question:
     text: >
@@ -2194,6 +2530,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 170
   question:
     text: >
@@ -2207,6 +2545,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 171
   question:
     text: >
@@ -2220,6 +2560,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 172
   question:
     text: >
@@ -2233,6 +2575,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 173
   question:
     text: >
@@ -2246,6 +2590,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 174
   question:
     text: >
@@ -2259,6 +2605,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 175
   question:
     text: >
@@ -2272,6 +2620,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 176
   question:
     text: >
@@ -2285,6 +2635,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 177
   question:
     text: >
@@ -2298,6 +2650,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 178
   question:
     text: >
@@ -2311,6 +2665,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 179
   question:
     text: >
@@ -2324,6 +2680,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 180
   question:
     text: >
@@ -2337,6 +2695,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 181
   question:
     text: >
@@ -2350,6 +2710,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 182
   question:
     text: >
@@ -2363,6 +2725,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 183
   question:
     text: >
@@ -2376,6 +2740,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 184
   question:
     text: >
@@ -2389,6 +2755,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 185
   question:
     text: >
@@ -2402,6 +2770,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 186
   question:
     text: >
@@ -2415,6 +2785,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 187
   question:
     text: >
@@ -2428,6 +2800,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 188
   question:
     text: >
@@ -2441,6 +2815,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 189
   question:
     text: >
@@ -2454,6 +2830,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 190
   question:
     text: >
@@ -2467,6 +2845,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 191
   question:
     text: >
@@ -2480,6 +2860,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 192
   question:
     text: >
@@ -2493,6 +2875,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 193
   question:
     text: >
@@ -2506,6 +2890,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 194
   question:
     text: >
@@ -2519,6 +2905,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 195
   question:
     text: >
@@ -2532,6 +2920,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 196
   question:
     text: >
@@ -2545,6 +2935,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 197
   question:
     text: >
@@ -2558,6 +2950,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 198
   question:
     text: >
@@ -2571,6 +2965,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 199
   question:
     text: >
@@ -2584,6 +2980,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 200
   question:
     text: >
@@ -2597,6 +2995,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 201
   question:
     text: >
@@ -2610,6 +3010,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 202
   question:
     text: >
@@ -2623,6 +3025,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 203
   question:
     text: >
@@ -2636,6 +3040,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 204
   question:
     text: >
@@ -2649,6 +3055,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 205
   question:
     text: >
@@ -2662,6 +3070,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 206
   question:
     text: >
@@ -2675,6 +3085,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 207
   question:
     text: >
@@ -2688,6 +3100,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 208
   question:
     text: >
@@ -2701,6 +3115,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 209
   question:
     text: >
@@ -2714,6 +3130,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 210
   question:
     text: >
@@ -2727,6 +3145,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 211
   question:
     text: >
@@ -2740,6 +3160,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 212
   question:
     text: >
@@ -2753,6 +3175,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 213
   question:
     text: >
@@ -2766,6 +3190,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 214
   question:
     text: >
@@ -2779,6 +3205,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Staatssymbole
 - qid: 215
   question:
     text: >
@@ -2792,6 +3220,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 216
   question:
     text: >
@@ -2805,6 +3235,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Staatssymbole
 - qid: 217
   question:
     text: >
@@ -2818,6 +3250,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wichtige Stationen nach 1945
 - qid: 218
   question:
     text: >
@@ -2831,6 +3265,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 219
   question:
     text: >
@@ -2844,6 +3280,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 220
   question:
     text: >
@@ -2857,6 +3295,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Der Nationalsozialismus und seine Folgen
 - qid: 221
   question:
     text: >
@@ -2870,6 +3310,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 222
   question:
     text: >
@@ -2883,6 +3325,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 223
   question:
     text: >
@@ -2896,6 +3340,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 224
   question:
     text: >
@@ -2909,6 +3355,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 225
   question:
     text: >
@@ -2922,6 +3370,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 226
   question:
     text: >
@@ -2935,6 +3385,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 227
   question:
     text: >
@@ -2948,6 +3400,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 228
   question:
     text: >
@@ -2961,6 +3415,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Wiedervereinigung
 - qid: 229
   question:
     text: >
@@ -2974,6 +3430,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 230
   question:
     text: >
@@ -2987,6 +3445,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 231
   question:
     text: >
@@ -3000,6 +3460,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 232
   question:
     text: >
@@ -3013,6 +3475,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 233
   question:
     text: >
@@ -3026,6 +3490,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 234
   question:
     text: >
@@ -3039,6 +3505,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 235
   question:
     text: >
@@ -3052,6 +3520,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 236
   question:
     text: >
@@ -3065,6 +3535,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 237
   question:
     text: >
@@ -3078,6 +3550,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 238
   question:
     text: >
@@ -3091,6 +3565,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 239
   question:
     text: >
@@ -3104,6 +3580,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 240
   question:
     text: >
@@ -3117,6 +3595,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Geschichte und Verantwortung
+    topic: Deutschland in Europa
 - qid: 241
   question:
     text: >
@@ -3130,6 +3610,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 242
   question:
     text: >
@@ -3143,6 +3625,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 243
   question:
     text: >
@@ -3156,6 +3640,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 244
   question:
     text: >
@@ -3169,6 +3655,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Bildung
 - qid: 245
   question:
     text: >
@@ -3182,6 +3670,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 246
   question:
     text: >
@@ -3195,6 +3685,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 247
   question:
     text: >
@@ -3208,6 +3700,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 248
   question:
     text: >
@@ -3221,6 +3715,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Pflichten
 - qid: 249
   question:
     text: >
@@ -3234,6 +3730,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Pflichten
 - qid: 250
   question:
     text: >
@@ -3247,6 +3745,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Bildung
 - qid: 251
   question:
     text: >
@@ -3260,6 +3760,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 252
   question:
     text: >
@@ -3273,6 +3775,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 253
   question:
     text: >
@@ -3286,6 +3790,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 254
   question:
     text: >
@@ -3299,6 +3805,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 255
   question:
     text: >
@@ -3312,6 +3820,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 256
   question:
     text: >
@@ -3325,6 +3835,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 257
   question:
     text: >
@@ -3338,6 +3850,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Bildung
 - qid: 258
   question:
     text: >
@@ -3351,6 +3865,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 259
   question:
     text: >
@@ -3364,6 +3880,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 260
   question:
     text: >
@@ -3377,6 +3895,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Pflichten
 - qid: 261
   question:
     text: >
@@ -3390,6 +3910,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Bildung
 - qid: 262
   question:
     text: >
@@ -3403,6 +3925,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 263
   question:
     text: >
@@ -3416,6 +3940,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 264
   question:
     text: >
@@ -3429,6 +3955,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Interkulturelles Zusammenleben
 - qid: 265
   question:
     text: >
@@ -3442,6 +3970,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 266
   question:
     text: >
@@ -3455,6 +3985,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 267
   question:
     text: >
@@ -3468,6 +4000,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 268
   question:
     text: >
@@ -3481,6 +4015,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 269
   question:
     text: >
@@ -3494,6 +4030,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Bildung
 - qid: 270
   question:
     text: >
@@ -3507,6 +4045,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Bildung
 - qid: 271
   question:
     text: >
@@ -3520,6 +4060,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Interkulturelles Zusammenleben
 - qid: 272
   question:
     text: >
@@ -3533,6 +4075,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 273
   question:
     text: >
@@ -3546,6 +4090,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 274
   question:
     text: >
@@ -3559,6 +4105,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 275
   question:
     text: >
@@ -3572,6 +4120,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 276
   question:
     text: >
@@ -3585,6 +4135,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 277
   question:
     text: >
@@ -3598,6 +4150,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 278
   question:
     text: >
@@ -3611,6 +4165,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 279
   question:
     text: >
@@ -3624,6 +4180,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 280
   question:
     text: >
@@ -3637,6 +4195,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 281
   question:
     text: >
@@ -3650,6 +4210,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 282
   question:
     text: >
@@ -3663,6 +4225,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Pflichten
 - qid: 283
   question:
     text: >
@@ -3676,6 +4240,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 284
   question:
     text: >
@@ -3689,6 +4255,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Bildung
 - qid: 285
   question:
     text: >
@@ -3702,6 +4270,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Sozialsystem
 - qid: 286
   question:
     text: >
@@ -3715,6 +4285,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 287
   question:
     text: >
@@ -3728,6 +4300,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 288
   question:
     text: >
@@ -3741,6 +4315,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Kommune
 - qid: 289
   question:
     text: >
@@ -3754,6 +4330,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Grundrechte
 - qid: 290
   question:
     text: >
@@ -3767,6 +4345,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 291
   question:
     text: >
@@ -3780,6 +4360,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Politik in der Demokratie
+    topic: Recht und Alltag
 - qid: 292
   question:
     text: >
@@ -3793,6 +4375,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Religiöse Vielfalt
 - qid: 293
   question:
     text: >
@@ -3806,6 +4390,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Interkulturelles Zusammenleben
 - qid: 294
   question:
     text: >
@@ -3819,6 +4405,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Religiöse Vielfalt
 - qid: 295
   question:
     text: >
@@ -3832,6 +4420,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Religiöse Vielfalt
 - qid: 296
   question:
     text: >
@@ -3845,6 +4435,8 @@
     rightAnswer: 2
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Religiöse Vielfalt
 - qid: 297
   question:
     text: >
@@ -3858,6 +4450,8 @@
     rightAnswer: 3
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Migrationsgeschichte
 - qid: 298
   question:
     text: >
@@ -3871,6 +4465,8 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Migrationsgeschichte
 - qid: 299
   question:
     text: >
@@ -3884,6 +4480,8 @@
     rightAnswer: 1
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Migrationsgeschichte
 - qid: 300
   question:
     text: >
@@ -3897,3 +4495,5 @@
     rightAnswer: 0
     type: general
     region: none
+    category: Mensch und Gesellschaft
+    topic: Migrationsgeschichte

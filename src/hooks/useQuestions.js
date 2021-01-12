@@ -13,11 +13,15 @@ function useQuestions(type, region) {
                 qid
                 metadata {
                     rightAnswer
+                    type
+                    topic
+                    category
                 }
                 question {
                   text
                 }
                 answers
+                path: gatsbyPath(filePath: "/flashcards/general/{generalQuestionsYaml.qid}")
               }
             }
             regional: allRegionalQuestionsYaml {
@@ -26,11 +30,13 @@ function useQuestions(type, region) {
                 metadata {
                   rightAnswer
                   region
+                  type
                 }
                 question {
                   text
                 }
                 answers
+                path: gatsbyPath(filePath: "/flashcards/regional/{regionalQuestionsYaml.metadata__region}/{regionalQuestionsYaml.qid}")
               }
             }
         }
@@ -47,13 +53,6 @@ function useQuestions(type, region) {
     return [];
 }
 
-function useQuestion(qid, type, region) {
-    const questions = useQuestions(type, region);
-    // Convert both qid to string
-    return questions.find(question => `${question.qid}` ===`${qid}`);
-}
-
 export {
-    useQuestion,
     useQuestions
 }

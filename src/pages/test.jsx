@@ -1,6 +1,6 @@
 import React, {Fragment} from 'react';
 import MetaTags from "./../components/MetaTags";
-import useRegions, {getRegionPrettyName} from "./../hooks/RegionHooks";
+import useRegions, {getRegionPrettyName} from "./../hooks/useRegions";
 import {Link} from "gatsby";
 
 export default function TestIndexPage(props) {

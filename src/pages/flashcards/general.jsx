@@ -1,6 +1,6 @@
 import React, {Fragment} from 'react';
 import FlashCardPage from "../../components/FlashCardPage";
-import {QUESTION_TYPES, useQuestions} from "../../hooks/QuestionHooks";
+import {QUESTION_TYPES, useQuestions} from "../../hooks/useQuestions";
 import MetaTags from "../../components/MetaTags";
 
 export default function GeneralFlashCardsPage(props) {

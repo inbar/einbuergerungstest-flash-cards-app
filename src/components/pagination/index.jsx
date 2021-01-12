@@ -24,13 +24,13 @@ function Pagination(props) {
                 {/*Pagination*/}
                 <ul className="uk-pagination uk-flex-right@l uk-flex-center uk-flex-center">
                     <li className={props.currentPage === 1 ? 'uk-disabled' : ''}>
-                        <span role="button" className="clickable" {...allHandlers(props.pageDecreaseHandler)}><span data-uk-pagination-previous></span></span>
+                        <span role="button" className="clickable" {...allHandlers(props.pageDecreaseHandler)}><span data-uk-pagination-previous/></span>
                     </li>
 
                     <PaginationLinks numOfPages={props.numOfPages} currentPage={props.currentPage} pageChangeHandler={props.pageChangeHandler}/>
                     
                     <li className={props.currentPage === props.numOfPages ? 'uk-disabled' : ''}>
-                        <span role="button" className="clickable" {...allHandlers(props.pageIncreaseHandler)}><span data-uk-pagination-next></span></span>
+                        <span role="button" className="clickable" {...allHandlers(props.pageIncreaseHandler)}><span data-uk-pagination-next/></span>
                     </li>
                 </ul>
             </div>
@@ -104,7 +104,6 @@ function intRange(start, end) {
 
 function allHandlers(fn) {
     return {
-        onClick: fn,
         onPointerDown: fn,
         onKeyDown: fn
     }

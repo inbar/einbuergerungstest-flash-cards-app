@@ -2,8 +2,8 @@ import React, {useState, useEffect} from 'react'
 import Pagination from "./pagination"
 import Card, {interactionModes} from "./cards/Card";
 import {doScrollToTop} from "./ScrollToTop";
-import {QUESTION_TYPES as PAGE_TYPES} from "../hooks/QuestionHooks";
-import {getRegionPrettyName} from "../hooks/RegionHooks";
+import {QUESTION_TYPES as PAGE_TYPES} from "../hooks/useQuestions";
+import {getRegionPrettyName} from "../hooks/useRegions";
 
 const ALLOWED_NUMBER_OF_ENTRIES = [10, 15, 30, 50];
 const BATCH_SIZE = 20;

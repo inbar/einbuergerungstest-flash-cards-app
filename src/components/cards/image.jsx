@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {useImage} from "../../hooks/ImageHooks";
+import {useImage} from "../../hooks/useImage";
 import Img from "gatsby-image";
 
 export default function Image(props) {

@@ -3,7 +3,7 @@ import ScoreBoard from "./ScoreBoard";
 import Card, {interactionModes} from "../cards/Card";
 import Timer from "./Timer";
 import {isRightAnswer} from "../../utils/Questions";
-import {getRegionPrettyName} from "../../hooks/RegionHooks";
+import {getRegionPrettyName} from "../../hooks/useRegions";
 
 
 function TestPage(props) {

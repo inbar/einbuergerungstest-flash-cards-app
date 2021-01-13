@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gatsby develop -H 0.0.0.0",
     "build": "gatsby build",
-    "release": "gatsby build",
+    "release": "gatsby build --verbose",
     "serve": "gatsby build && gatsby serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

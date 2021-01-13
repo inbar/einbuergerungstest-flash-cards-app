@@ -158,6 +158,7 @@ function TestPage(props) {
                                     revealAll={revealAll}
                                     selectedAnswer={getSelectedAnswer(q)}
                                     answerClickHandler={handleAnswerClick}
+                                    showExpandButton={false}
                                 />
                             )
                         )
@@ -181,6 +182,7 @@ function TestPage(props) {
                                     revealAll={revealAll}
                                     selectedAnswer={getSelectedAnswer(q)}
                                     answerClickHandler={handleAnswerClick}
+                                    showExpandButton={false}
                                 />
                             )
                         )

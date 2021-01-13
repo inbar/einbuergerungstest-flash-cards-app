@@ -1,10 +1,11 @@
 import React, {Fragment} from 'react';
-import {QUESTION_TYPES, useQuestion} from "../../../../hooks/useQuestion";
+import {useQuestion} from "../../../../hooks/useQuestion";
 import MetaTags from "../../../../components/MetaTags";
 import Card, {interactionModes} from "../../../../components/cards/Card";
 import {Link} from "gatsby";
 import useRegion from "../../../../hooks/useRegion";
 import {getRegionPrettyName} from "../../../../hooks/useRegions";
+import {QUESTION_TYPES} from "../../../../hooks/useQuestions";
 
 function SingleRegionalQuestionPage(props) {
     const qid = props.params.qid;

@@ -1,6 +1,5 @@
 import useRegions, {getRegionPrettyName} from "../hooks/useRegions";
 import React, {Fragment} from "react";
-import MetaTags from "./MetaTags";
 import {Link} from "gatsby";
 import {PATHS} from "./layout";
 

@@ -28,3 +28,10 @@ Project is running at http://0.0.0.0:8080/
 
 See all [available scripts](https://github.com/inbar/einbuergerungstest-flash-cards-app/blob/mainline/package.json#L6).
 
+---
+
+#### Powered by: 
+<a href="https://www.gatsbyjs.com">
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Logo.svg" width="150"/>
+  </a>
+

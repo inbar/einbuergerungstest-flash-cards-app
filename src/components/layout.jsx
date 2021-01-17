@@ -40,9 +40,9 @@ function Layout(props) {
     
     return (
         <Fragment>
-            <DisableGoogleAnalytics/>
             <ScrollToTop location={props.location}/>
             <CookieConsentContextWrapper>
+                <DisableGoogleAnalytics/>
                 <div className="container" data-uk-height-viewport="expand=true">
                     {/*Header*/}
                     <Headroom disableInlineStyles className="headroom">

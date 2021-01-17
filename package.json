@@ -25,6 +25,7 @@
     "dotenv": "^8.2.0",
     "gatsby": "^2.27.5",
     "gatsby-image": "^2.7.0",
+    "gatsby-plugin-google-gtag": "^2.6.0",
     "gatsby-plugin-layout": "^1.5.0",
     "gatsby-plugin-less": "^4.3.0",
     "gatsby-plugin-manifest": "^2.8.0",

@@ -7,25 +7,36 @@
 require('dotenv').config();
 
 const stage = process.env.STAGE ? process.env.STAGE : 'DEV';
+const GOOGLE_ANALYTICS_TRACKING_ID = {
+    BETA: 'G-FX57TQKCSS',
+    GAMMA: 'G-16WMQK8TJV',
+    PROD: 'G-V6FCH2NWBB'
+};
+
 let siteName;
 let siteUrl;
+let trackingId;
 
 switch (stage) {
     case 'PROD':
-        siteName = "Einbürgerungs Flash Cards App";
+        siteName = "Einbürgerungstest Flash Cards App";
         siteUrl = "https://www.einbuergerungstest-flash-cards.app";
+        trackingId = GOOGLE_ANALYTICS_TRACKING_ID.PROD;
         break;
     case 'BETA':
-        siteName = "Einbürgerungs Flash Cards App (BETA)";
+        siteName = "Einbürgerungstest Flash Cards App (BETA)";
         siteUrl = "https://beta.einbuergerungstest-flash-cards.app";
+        trackingId = GOOGLE_ANALYTICS_TRACKING_ID.BETA;
         break;
     case 'GAMMA':
-        siteName = "Einbürgerungs Flash Cards App (GAMMA)";
+        siteName = "Einbürgerungstest Flash Cards App (GAMMA)";
         siteUrl = "https://gamma.einbuergerungstest-flash-cards.app";
+        trackingId = GOOGLE_ANALYTICS_TRACKING_ID.GAMMA;
         break;
     default:
-        siteName = "Einbürgerungs Flash Cards App (DEV)";
+        siteName = "Einbürgerungstest Flash Cards App (DEV)";
         siteUrl = "localhost:8000";
+        trackingId = GOOGLE_ANALYTICS_TRACKING_ID.BETA;
 }
 
 module.exports = {
@@ -36,7 +47,7 @@ module.exports = {
     /* Your site config here */
     plugins: [
         `gatsby-plugin-less`,
-        `gatsby-plugin-sharp`, 
+        `gatsby-plugin-sharp`,
         `gatsby-transformer-sharp`,
         `gatsby-plugin-react-helmet`,
         {
@@ -71,6 +82,24 @@ module.exports = {
                 display: `browser`
             },
         },
-        
+        {
+            resolve: `gatsby-plugin-google-gtag`,
+            options: {
+                // You can add multiple tracking ids and a pageview event will be fired for all of them.
+                trackingIds: [
+                    trackingId, // Google Analytics / GA
+                ],
+                // This object gets passed directly to the gtag config command
+                // This config will be shared across all trackingIds
+                gtagConfig: {
+                    anonymize_ip: true,
+                    cookie_expires: 0,
+                },
+                pluginConfig: {
+                    // Setting this parameter is also optional
+                    respectDNT: true
+                }
+            },
+        }
     ]
 };

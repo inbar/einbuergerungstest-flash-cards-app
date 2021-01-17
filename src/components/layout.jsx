@@ -8,6 +8,7 @@ import {Link} from "gatsby"
 import useRegions, {getRegionPrettyName} from "./../hooks/useRegions";
 import {useLocation} from "@reach/router";
 import {ScrollToTop, doScrollToTop} from "./ScrollToTop";
+import DisableGoogleAnalytics from "./DisableGoogleAnalytics";
 
 export const PATHS = {
     home: "/home",
@@ -41,6 +42,7 @@ function Layout(props) {
         <Fragment>
             <ScrollToTop location={props.location}/>
             <CookieConsentContextWrapper>
+                <DisableGoogleAnalytics/>
                 <div className="container" data-uk-height-viewport="expand=true">
                     {/*Header*/}
                     <Headroom disableInlineStyles className="headroom">

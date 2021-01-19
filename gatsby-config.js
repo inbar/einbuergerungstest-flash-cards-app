@@ -42,10 +42,12 @@ switch (stage) {
 module.exports = {
     siteMetadata: {
         name: siteName,
-        url: siteUrl
+        url: siteUrl,
+        siteUrl: siteUrl,
     },
     /* Your site config here */
     plugins: [
+        `gatsby-plugin-sitemap`,
         `gatsby-plugin-less`,
         `gatsby-plugin-sharp`,
         `gatsby-transformer-sharp`,
@@ -96,6 +98,7 @@ module.exports = {
                     cookie_expires: 0,
                 },
                 pluginConfig: {
+                    head: true,
                     // Setting this parameter is also optional
                     respectDNT: true
                 }
